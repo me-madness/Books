@@ -1,8 +1,3 @@
-<?php
-include 'includes/';
-
-?>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
